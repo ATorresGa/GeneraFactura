@@ -1,0 +1,10 @@
+.aliniamiento-superior{
+    float: right;
+}
+.fuente-anio{
+    font-size: 0.8rem;
+}
+.requerido{
+    color: red;
+    visibility: hidden;
+}
